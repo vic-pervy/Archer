@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f63133015700490a9f5c5b6761fb6afa, type: 3}
+  m_Name: Bow (Config)
+  m_EditorClassIdentifier: 
+  launchForce: 10
+  bowPrefab: {fileID: 3169650118112403524, guid: 5401705ee8d3a1840a41964ef9255299, type: 3}
