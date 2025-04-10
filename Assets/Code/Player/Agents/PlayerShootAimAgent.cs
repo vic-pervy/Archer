@@ -63,7 +63,7 @@ namespace Code
 
         void StartAim()
         {
-            _playerModel.LastLaunchForceMultiply = 0;
+            _playerModel.LastLaunchForceMultiply = 0.5f;
             gameObject.SetActive(true);
             GameTick();
         }
